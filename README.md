@@ -35,4 +35,4 @@ python3 render_graph.py
 Входные данные: файл графа страницы (считывается из переменной окружения WIKI_FILE)
 Выходные данные: изображение PNG графа страницы (и опционально HTML-страница с интерактивной визуализацией)
 
-<img src="./materials/graph.gif" alt="Пример GIF">
+<img src="./materials/graph.gif" alt="Пример GIF" style="display: block; margin: 0 auto;">
