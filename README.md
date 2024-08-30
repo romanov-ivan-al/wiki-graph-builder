@@ -36,5 +36,5 @@ python3 render_graph.py
 Выходные данные: изображение PNG графа страницы (и опционально HTML-страница с интерактивной визуализацией)
 
 <video controls>
-  <source src="3d2a0e5813708e1a4b3db53a5900c7320124e9b7b4cbxWEBx1884x1725007300"video/mp4">
+  <source src="https://disk.yandex.ru/i/HWtOZmalLEalzw"video/mp4">
 </video>
