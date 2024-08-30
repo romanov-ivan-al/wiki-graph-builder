@@ -1,0 +1,5 @@
+networkx
+pyvis
+playwright
+beautifulsoup4
+requests
