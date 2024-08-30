@@ -34,7 +34,7 @@ python3 render_graph.py
 ```
 Входные данные: файл графа страницы (считывается из переменной окружения WIKI_FILE)
 Выходные данные: изображение PNG графа страницы (и опционально HTML-страница с интерактивной визуализацией)
-[Graph video](materials/graph.mov)
+
 <video controls>
-  <source src="https://github.com/romanov-ivan-al/wiki-graph-builder/blob/main/materials/graph.mov type="video/mp4">
+  <source src="./materials/graph.mov"video/mp4">
 </video>
